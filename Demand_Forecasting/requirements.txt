@@ -1,0 +1,9 @@
+Flask==2.2.5
+psycopg2-binary==2.9.6
+pandas
+neuralforecast
+flask-cors
+statsmodels
+numpy
+datetime
+gunicorn
